@@ -1,0 +1,53 @@
+{
+  "alunos": [
+    {
+      "nome": "Luiz Picolo",
+      "num_inscricao": "5642485",
+      "curso": "Informática",
+      "photo": "https://avatars.githubusercontent.com/u/1373275?v=4",
+      "id": 1
+    },
+    {
+      "nome": "Arthur Dantas",
+      "num_inscricao": "69851",
+      "curso": "Informática",
+      "photo": "https://avatars.githubusercontent.com/u/96697403?v=4",
+      "id": 2
+    },
+    {
+      "nome": "Rafa Ballerini",
+      "num_inscricao": "676523",
+      "curso": "Informática",
+      "photo": "https://avatars.githubusercontent.com/u/54322854?v=4",
+      "id": 3
+    },
+    {
+      "nome": "Arthur Dantas",
+      "num_inscricao": "69851",
+      "curso": "Informática",
+      "photo": "https://avatars.githubusercontent.com/u/96697403?v=4",
+      "id": 4
+    },
+    {
+      "nome": "Rafa Ballerini",
+      "num_inscricao": "676523",
+      "curso": "Informática",
+      "photo": "https://avatars.githubusercontent.com/u/54322854?v=4",
+      "id": 5
+    },
+    {
+      "nome": "Mayk Brito",
+      "num_inscricao": "676524",
+      "curso": "Informática",
+      "photo": "https://avatars.githubusercontent.com/u/6643122?v=4",
+      "id": 6
+    },
+    {
+      "nome": "Eduardo Feliciano",
+      "num_inscricao": "254563",
+      "curso": "Agropecuária",
+      "photo": "",
+      "id": 7
+    }
+  ]
+}
