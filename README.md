@@ -39,7 +39,7 @@ Antes de baixar o projeto você vai precisar ter instalado na sua máquina as se
 $ npm install -g json-server
 ```
 
-## 🗂 Executar Projeto.
+## 🗂 Executar Projeto
 
 ```bash
 # Clonar Projeto.
